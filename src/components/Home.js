@@ -8,7 +8,6 @@ console.log(item);
      <p>sports name: {item.strSport}</p>
      <p><strong>sports description</strong> : {item.strSportDescription}</p>
      <p><img src={item.strSportThumbGreen} alt=''/></p>
-     <button>Show details</button>
     </>
   )
 }
